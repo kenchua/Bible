@@ -1,1 +1,1 @@
-# Bible.github.io
+# Bible
